@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpa:home|Door43 (cpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpa|d43-cpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpa/archive/master.zip|d43-cpa.zip]]
+
+**Recent Changes**
+{{changes>ns = cpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpa|Ethnologue data]]
+
